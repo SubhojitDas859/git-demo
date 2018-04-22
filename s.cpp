@@ -1,5 +1,9 @@
 #include<iostream.h> 
 #include<conio.h> 
+
+using namespace std;
+
+
 class base 
 { 
 int val1,val2; 
